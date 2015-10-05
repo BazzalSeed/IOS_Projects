@@ -1,10 +1,10 @@
 # IOS_Projects
 # Final Project Developed by: Seed Zeng, @Jing Lu, @Yilong Hu
 
-A. Points worth noticing  
+- [ ] A. Points worth noticing  
 ===========================
 
-1. 
+	- [ ] 1. 
 
 The hand-drawing functionality is an important part of the app. Users rely on it to practice writing CHinese characters and it is also a main
 functionality for three major modes of the app ( SmoothedBIView.h/m under Practice folder)
@@ -12,7 +12,7 @@ functionality for three major modes of the app ( SmoothedBIView.h/m under Practi
 - To improve the stroke, we increase the number of points (GCmake call) to approximate one line according to the length of the stroke
 - Also tried to detect the speed of the stroke
 
-2.   
+ 	- [ ] 2.   
 
 
 The voice detection method is a useful functionality where users can speak to the app and the app will return list of Chinese words detected if listed in database. 
@@ -20,7 +20,7 @@ The voice detection method is a useful functionality where users can speak to th
 - Eventually we show grids of words where users can click on it and enter practice mode from there
 - Utilized kedaxunfei API and JSON package
 
-3.  
+	- [ ] 3.  
 
 
 To make the app prettier, utilized multiple frame and opensource codes to achive
@@ -29,7 +29,7 @@ b. Siri voice volume detection
 c. collection view
 
 
-B. App Descripiton
+- [ ] B. App Descripiton
 
 ==========================================================
 -- C++ is hard, VHDL is worse, Chinese Minus Minus is the best!
@@ -71,7 +71,7 @@ What's This
 
 
 
-C. Design Decripition
+- [ ] C. Design Decripition
 
 ==========================================================
 The app consists of four major groups of view controllers responsible four modes of our app. One more group of viewcontrollers is responsible for the intro views we implemented in the first launch of the game.
@@ -100,7 +100,7 @@ Controlls the flash card view
 
 
 
-D. Going further
+- [ ] D. Going further
 
 ==========================================================
 
