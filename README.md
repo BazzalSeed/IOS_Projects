@@ -2,7 +2,9 @@
 # Final Project Developed by: Seed Zeng, @Jing Lu, @Yilong Hu
 
 A. Points worth noticing 
+
 1. 
+
 The hand-drawing functionality is an important part of the app. Users rely on it to practice writing CHinese characters and it is also a main
 functionality for three major modes of the app ( SmoothedBIView.h/m under Practice folder)
 - initially simply use two GCMake call to approximate one chace. The result is pretty ugly. THe stroke is too sharp to be seen
@@ -10,12 +12,14 @@ functionality for three major modes of the app ( SmoothedBIView.h/m under Practi
 - Also tried to detect the speed of the stroke
 
 2. 
+
 The voice detection method is a useful functionality where users can speak to the app and the app will return list of Chinese words detected if listed in database. 
 - initially only return a list of Chinese words (raw data)
 - Eventually we show grids of words where users can click on it and enter practice mode from there
 - Utilized kedaxunfei API and JSON package
 
 3.
+
 To make the app prettier, utilized multiple frame and opensource codes to achive
 a. intro slides
 b. Siri voice volume detection
