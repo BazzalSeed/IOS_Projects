@@ -1,7 +1,7 @@
 # IOS_Projects
  Final Project Developed by: Seed Zeng, @Jing Lu, @Yilong Hu
 
-#######  - [ ]  A. Points worth noticing  
+####### A. Points worth noticing  
 ==========================================================
 
 - [ ] 1. 
