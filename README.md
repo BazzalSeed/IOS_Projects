@@ -1,10 +1,10 @@
 # IOS_Projects
-# Final Project Developed by: Seed Zeng, @Jing Lu, @Yilong Hu
+ Final Project Developed by: Seed Zeng, @Jing Lu, @Yilong Hu
 
 - [ ] A. Points worth noticing  
-===========================
 
-	- [ ] 1. 
+
+- [ ] 1. 
 
 The hand-drawing functionality is an important part of the app. Users rely on it to practice writing CHinese characters and it is also a main
 functionality for three major modes of the app ( SmoothedBIView.h/m under Practice folder)
@@ -31,7 +31,6 @@ c. collection view
 
 - [ ] B. App Descripiton
 
-==========================================================
 -- C++ is hard, VHDL is worse, Chinese Minus Minus is the best!
 
 This app is developed to help people learn Chinese better and faster. It is comprised of four major modes: practice, battle, Mylist and What's This.
