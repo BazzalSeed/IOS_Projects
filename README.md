@@ -49,11 +49,13 @@ This app is developed to help people learn Chinese better and faster. It is comp
 
 ###### MyList
 > work collection of Chinese characters
+
 - it displays flash cards of words that were saved via users' pressing favortie button in battle mode and practice mode
 - it is designed for users to review their favorite chinese characters :)
 
 ###### Battle Mode
 > Tired of practicing writing Chinese characters? Time to battle with your friend
+
 - when step into the battle mode, first you have to choose from starting from player 1, player 2, or random.
 - when game starts, analert view fires to start the timer for player who goes first, assuming player 1 in this case
 - player one will start writing the character and press Done writing when finishing writing
