@@ -25,10 +25,11 @@ a. intro slides
 b. Siri voice volume detection
 c. collection view
 
-=======================================================================
--- C++ is hard, VHDL is worse, Chinese Minus Minus is the best!
 
+==========================================================
 B. App Descripiton
+
+-- C++ is hard, VHDL is worse, Chinese Minus Minus is the best!
 
 This app is developed to help people learn Chinese better and faster. It is comprised of four major modes: practice, battle, Mylist and What's This.
 
